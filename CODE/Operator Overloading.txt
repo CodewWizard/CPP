@@ -1,0 +1,20 @@
+Operator Overloading :
+	- Compile Time Polymorphism
+	- Overloads the operator
+	- To provide the special meaning to user defined data type
+
+Can't overload this operators :
+	- sizeof operator
+	- Scope resolution operator  (::)
+	- Member function selector (.) 
+	- pointer structure operator (->) OR ( * )
+	- Ternary operator (?:)
+Rules :
+	- We can overload the operators with OBJECTS only.
+	
+Types :
+	- Unary Operator ( uses one operand only)
+	- Binary Operator (uses two operands)
+
+Benefits :
+	- To perform different operations on the same operand.

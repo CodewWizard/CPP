@@ -1,0 +1,7 @@
+DRY - Do not Repeat Yourself
+
+Why use Template?
+	 - DRY
+	 - For generic programming
+	 - Must for Competitive  programming
+	 - also called as parameterized class 

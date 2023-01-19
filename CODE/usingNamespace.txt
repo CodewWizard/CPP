@@ -1,0 +1,4 @@
+ - "using namespace std" means we use the namespace named std.
+ - “std” is an abbreviation for standard. 
+ - So that means we use all the things with in “std” namespace.
+ - If we don't want to use this line of code, we can use the things in this namespace like this. std::cout, std::endl.
